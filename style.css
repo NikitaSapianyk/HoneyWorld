@@ -1,0 +1,225 @@
+.head {
+    /* Line */
+    position: absolute;
+    position: absolute;
+    width: 1526px;
+    height: 0;
+    left: 0;
+    top: 79.5px;
+    border: 1px solid rgb(236, 236, 236);
+}
+
+.logo img {
+    width: 256px;
+    height: 35px;
+
+}
+
+.logo {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.head1 {
+    /* Студія */
+    position: absolute;
+    width: 109px;
+    height: 16px;
+    left: 453px;
+    right: -453px;
+    top: 12px;
+    bottom: -32px;
+    bottom: -32px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.head1 h3 {
+    font-size: 18px;
+    color: #E29020;
+    transition: all 0.45s;
+}
+
+
+
+.head2 {
+    /* Портфоліо */
+    position: absolute;
+    width: 77px;
+    height: 16px;
+    left: 588px;
+    right: -339px;
+    top: 12px;
+    bottom: -32px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.head2 h3:hover {
+    color: #E29020;
+}
+
+.head2 h3 {
+    font-size: 18px;
+    color: #000000;
+    transition: all 0.45s;
+}
+
+.head3 {
+    /* Контакти */
+    position: absolute;
+    width: 144px;
+    height: 16px;
+    left: 700px;
+    right: -453px;
+    top: 12px;
+    bottom: -32px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.head3 h3:hover {
+    color: #E29020;
+}
+
+.head3 h3 {
+    font-size: 18px;
+    color: #000000;
+    transition: all 0.45s;
+}
+
+.head4 {
+    /* Контакти */
+    position: absolute;
+    width: 84px;
+    height: 16px;
+    left: 860px;
+    right: -453px;
+    top: 12px;
+    bottom: -32px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.head4 h3:hover {
+    color: #E29020;
+}
+
+.head4 h3 {
+    font-size: 18px;
+    color: #000000;
+    transition: all 0.45s;
+}
+
+.na{
+    position: absolute;
+    width: 768px;
+    height: 40px;
+    left: 400px;
+    top: 100px;
+    font-size: 36px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+}
+
+.tekst2{
+    position: absolute;
+    width: 768px;
+    height: 40px;
+    left: 400px;
+    top: 170px;
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal
+}
+
+.playp{
+    position:absolute ;
+    width: 768px;
+    height: 422px;
+    top: 370px;
+    left: 400px;
+    border-radius: 20px;
+}
+
+.spysok{
+    position: absolute;
+    width: 768px;
+    height: 40px;
+    left: 428px;
+    top: 886.5px;
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal
+}
+
+.spysok2{
+    position: absolute;
+    width: 768px;
+    height: 40px;
+    left: 428px;
+    top: 920px;
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal
+}
+
+.spysok3{
+    position: absolute;
+    width: 768px;
+    height: 40px;
+    left: 428px;
+    top: 953px;
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal
+}
+
+.color{
+    position: absolute;
+    width: 768px;
+    height: 40px;
+    left: 400px;
+    top: 900px;
+    font-size: 20px;
+    color:rgb(209, 209, 209);
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+}
+
+.color2{
+    position: absolute;
+    width: 768px;
+    height: 40px;
+    left: 400px;
+    top: 933.5px;
+    font-size: 20px;
+    color:rgb(209, 209, 209);
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+}
+
+.color3{
+    position: absolute;
+    width: 768px;
+    height: 40px;
+    left: 400px;
+    top: 967px;
+    font-size: 20px;
+    color:rgb(209, 209, 209);
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+}
+
+.kakza{
+    position: absolute;
+    width: 768px;
+    height: 40px;
+    left: 400px;
+    top: 805px;
+    font-size: 36px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+}
