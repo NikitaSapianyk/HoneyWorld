@@ -2,7 +2,7 @@
     /* Line */
     position: absolute;
     position: absolute;
-    width: 1526px;
+    width: 1510px;
     height: 0;
     left: 0;
     top: 79.5px;
@@ -222,4 +222,44 @@
     font-size: 36px;
     color: #000000;
     font-family: 'Roboto', sans-serif;
+}
+
+.foot{
+    position: absolute;
+    width: 1501px;
+    height: 152px;
+    top: 1100px;
+    border: 1px solid rgb(223, 223, 223);
+}
+
+.logodown{
+    position: absolute;
+    width: 256px;
+    height: 35px;
+    top: 1160px;
+    left: 100px;
+}
+
+.disk{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 1150px;
+    left: 600px;
+}
+
+.teleg{
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    top: 1150px;
+    left: 680px;
+}
+
+.youtube{
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    top: 1140px;
+    left: 760px;
 }
